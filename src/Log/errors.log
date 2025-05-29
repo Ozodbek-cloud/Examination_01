@@ -1,0 +1,254 @@
+2025-05-26 21:29:53-error:Owner and owner@gmail.com are already Exists!
+2025-05-26 21:30:14-error: User is Not Found
+2025-05-26 21:59:37-error:Cannot destructure property 'id' of 'payload.params' as it is undefined.
+2025-05-26 21:59:37-error:Cannot destructure property 'id' of 'payload.params' as it is undefined.
+2025-05-26 22:00:14-error:Cannot destructure property 'id' of 'payload.params' as it is undefined.
+2025-05-26 22:00:14-error:Cannot destructure property 'id' of 'payload.params' as it is undefined.
+2025-05-26 22:05:31-error:BranchService.findbyIdAndDelete is not a function
+2025-05-26 22:10:09-error:req is not defined
+2025-05-26 22:10:11-error:req is not defined
+2025-05-26 22:10:12-error:req is not defined
+2025-05-26 22:10:13-error:req is not defined
+2025-05-26 22:10:14-error:req is not defined
+2025-05-26 22:10:15-error:req is not defined
+2025-05-26 22:10:45-error:req is not defined
+2025-05-26 22:10:47-error:req is not defined
+2025-05-26 22:14:00-error:Cannot destructure property 'id' of 'payload.params' as it is undefined.
+2025-05-26 22:23:06-error:Cannot destructure property 'id' of 'payload.params' as it is undefined.
+2025-05-26 22:23:06-error:Cannot destructure property 'id' of 'payload.params' as it is undefined.
+2025-05-26 22:39:58-error:next is not defined
+2025-05-26 22:40:36-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:43:04-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:43:08-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:43:09-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:43:09-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:43:10-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:43:11-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:43:26-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:43:27-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:44:35-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:44:36-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:45:14-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:46:16-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:46:37-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:49:12-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:52:35-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 22:53:04-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 23:16:15-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 23:16:31-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 23:22:11-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 23:22:12-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 23:26:20-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 23:26:39-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 23:26:40-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-26 23:28:12-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-27 10:36:12-error:Owner and owner6@gmail.com are already Exists!
+2025-05-27 10:37:00-error:sha256 is not defined
+2025-05-27 11:05:46-error:Cannot set properties of undefined (setting 'user_id')
+2025-05-27 11:07:44-error:Cannot set properties of undefined (setting 'stuff_id')
+2025-05-27 11:58:09-error:Cannot destructure property 'role' of 'req.user' as it is undefined.
+2025-05-27 13:38:43-error:Cannot destructure property 'role' of 'req.user' as it is undefined.
+2025-05-27 13:55:35-info:Stuff updated: 683559c3e4475fc1c9c6a789
+2025-05-27 13:55:45-error:Cannot destructure property 'role' of 'req.user' as it is undefined.
+2025-05-27 13:55:47-error:Cannot destructure property 'role' of 'req.user' as it is undefined.
+2025-05-27 13:55:47-error:Cannot destructure property 'role' of 'req.user' as it is undefined.
+2025-05-27 13:55:48-error:Cannot destructure property 'role' of 'req.user' as it is undefined.
+2025-05-27 14:00:31-info:New stuff created: undefined
+2025-05-27 14:01:15-error:Cannot destructure property 'role' of 'req.user' as it is undefined.
+2025-05-27 14:01:16-error:Cannot destructure property 'role' of 'req.user' as it is undefined.
+2025-05-27 14:01:17-error:Cannot destructure property 'role' of 'req.user' as it is undefined.
+2025-05-27 14:01:17-error:Cannot destructure property 'role' of 'req.user' as it is undefined.
+2025-05-27 16:39:43-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-27 16:40:19-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-27 21:02:36-error:Trasnports validation failed: img: Cast to date failed for value "1748361756004.Screenshot 2025-05-02 173109.png" (type string) at path "img"
+2025-05-27 21:02:36-error:Trasnports validation failed: img: Cast to date failed for value "1748361756004.Screenshot 2025-05-02 173109.png" (type string) at path "img"
+2025-05-27 21:03:25-error:Trasnports validation failed: img: Cast to date failed for value "1748361805989.Screenshot 2025-05-02 173109.png" (type string) at path "img"
+2025-05-27 21:03:25-error:Trasnports validation failed: img: Cast to date failed for value "1748361805989.Screenshot 2025-05-02 173109.png" (type string) at path "img"
+2025-05-27 21:04:42-error:Trasnports validation failed: img: Cast to date failed for value "1748361882703.Screenshot 2025-05-02 173109.png" (type string) at path "img"
+2025-05-27 21:04:42-error:Trasnports validation failed: img: Cast to date failed for value "1748361882703.Screenshot 2025-05-02 173109.png" (type string) at path "img"
+2025-05-27 22:10:18-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-27 23:12:47-info:New Branch created!
+2025-05-27 23:13:18-error:Change Branch error: update is not defined
+2025-05-27 23:13:18-error:update is not defined
+2025-05-27 23:14:58-info:Branch updated: Polo
+2025-05-27 23:15:48-info:Branch updated: Polo
+2025-05-27 23:16:00-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-27 23:16:48-error: Delete Branch error: Branch not found
+2025-05-27 23:17:10-info:Branch deleted: 68348f5522ea5e2bb9d91a37!
+2025-05-27 23:17:42-info:All Branches are Get
+2025-05-27 23:18:01-info:Branch get One SuccessFully 6835f16037a58c8379b1dac5
+2025-05-27 23:18:22-info:Branch get One SuccessFully 6836009f9b327e0a8f18a0a2
+2025-05-27 23:18:54-info:Branch get One SuccessFully 6835f16037a58c8379b1dac5
+2025-05-27 23:19:20-info:Branch get One SuccessFully 6835e93244e3b8b137984bf4
+2025-05-28 17:54:23-error:lolo and Abdumalikov@gmail.com are already Exists!
+2025-05-28 17:55:40-error:Cannot destructure property 'role' of 'req.staff' as it is undefined.
+2025-05-28 17:56:47-info:New Branch created!
+2025-05-28 20:47:19-error:lolo and Lopks@gmail.com are already Exists!
+2025-05-28 20:49:13-info:New Branch created!
+2025-05-28 20:50:34-info:Branch updated: Polo
+2025-05-28 20:53:29-info:Branch updated: Polo
+2025-05-28 20:54:29-error: Delete Branch error: Branch not found
+2025-05-28 20:54:41-info:Branch deleted: 68373079b37e4455c6d53239!
+2025-05-28 20:55:13-info:All Branches are Get
+2025-05-28 20:58:07-error:Cannot destructure property 'branch_id' of 'req.body' as it is undefined.
+2025-05-28 21:02:15-error:Cannot read properties of undefined (reading 'branch_id')
+2025-05-28 21:04:03-error:Cannot read properties of undefined (reading 'branch_id')
+2025-05-28 21:04:47-info:Branch deleted: 6837080f681e047d3afd75fc!
+2025-05-28 21:06:10-info:All Branches are Get
+2025-05-28 21:06:45-error:id is not defined
+2025-05-28 21:08:45-info:Branch get One SuccessFully 6835e93244e3b8b137984bf4
+2025-05-28 21:09:26-info:New stuff created: undefined
+2025-05-28 21:09:45-error:Change stuff error: Stuff not found
+2025-05-28 21:42:43-info:New stuff created: [object Object]
+2025-05-28 21:46:57-info:Stuff updated: 6837353693fd32382da546cf
+2025-05-28 22:05:49-error:Cannot read properties of undefined (reading 'branch_id')
+2025-05-28 23:29:34-error:AdminService.Register is not a function
+2025-05-28 23:30:02-error:AdminService.Register is not a function
+2025-05-28 23:30:02-error:AdminService.Register is not a function
+2025-05-28 23:31:25-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:31:25-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:33:15-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:33:15-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:34:54-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:34:54-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:38:35-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:38:35-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:41:35-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:41:35-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:43:32-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:43:32-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:44:51-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:44:51-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:46:19-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:46:19-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:46:28-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:46:28-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:46:29-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:46:29-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:46:31-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:46:31-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:46:32-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:46:32-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:48:07-error:Cannot read properties of undefined (reading 'img')
+2025-05-28 23:48:07-error:Cannot read properties of undefined (reading 'img')
+2025-05-28 23:48:27-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:48:27-error:The first argument must be of type string or an instance of Bufer, ArrayBuffer, or Array or an Array-like Object. Received undefinedf
+2025-05-28 23:49:47-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-28 23:49:47-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-29 00:05:24-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-29 00:05:24-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-29 00:06:39-error:CustomError is not defined
+2025-05-29 00:06:39-error:CustomError is not defined
+2025-05-29 00:07:44-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-29 00:07:44-error:The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
+2025-05-29 00:08:08-error:Cannot set properties of undefined (setting 'admin')
+2025-05-29 00:08:08-error:Cannot set properties of undefined (setting 'admin')
+2025-05-29 00:08:38-error:Cannot set properties of undefined (setting 'admins')
+2025-05-29 00:08:38-error:Cannot set properties of undefined (setting 'admins')
+2025-05-29 00:08:55-error:Cannot set properties of undefined (setting 'admin_id')
+2025-05-29 00:08:55-error:Cannot set properties of undefined (setting 'admin_id')
+2025-05-29 00:09:18-error:Cannot set properties of undefined (setting 'user_id')
+2025-05-29 00:09:18-error:Cannot set properties of undefined (setting 'user_id')
+2025-05-29 00:11:00-error:Cannot set properties of undefined (setting 'admin')
+2025-05-29 00:11:00-error:Cannot set properties of undefined (setting 'admin')
+2025-05-29 00:11:24-error:Cannot set properties of undefined (setting 'admin_id')
+2025-05-29 00:11:24-error:Cannot set properties of undefined (setting 'admin_id')
+2025-05-29 00:11:40-error:Cannot set properties of undefined (setting 'user_id')
+2025-05-29 00:11:40-error:Cannot set properties of undefined (setting 'user_id')
+2025-05-29 00:13:43-error:file.mv is not a function
+2025-05-29 00:13:43-error:file.mv is not a function
+2025-05-29 00:34:21-error:
+                akramjon@gmail.com and 12345678 is Already Registered! 
+                
+2025-05-29 00:34:37-error:
+                akramjon@gmail.com is Already Registered! 
+                
+2025-05-29 00:34:53-error:akramjon@gmail.com is Already Registered!
+2025-05-29 00:35:54-error:
+                akramjon@gmail.com and 12345678 is NOt Found! 
+                
+2025-05-29 00:36:21-error:result is not defined
+2025-05-29 00:36:21-error:result is not defined
+2025-05-29 00:36:42-error:result is not defined
+2025-05-29 00:36:42-error:result is not defined
+2025-05-29 01:07:26-error:Get error: success is not defined
+2025-05-29 01:07:26-error:success is not defined
+2025-05-29 01:22:53-error:Update Transport error: undefined
+2025-05-29 01:22:53-error:TransportService.findByIdAndUpdate is not a function
+2025-05-29 01:24:18-info:Updated Transport Successfully!
+2025-05-29 01:26:03-info:Successfully find name of transport!
+2025-05-29 01:26:46-info:Successfully find name of transport!
+2025-05-29 01:27:20-info:Successfully find name of transport!
+2025-05-29 01:27:28-info:Successfully find name of transport!
+2025-05-29 01:29:05-info:Successfully find name of transport!
+2025-05-29 13:07:34-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:07:34-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:07:39-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:07:39-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:08:34-error:Get one error: Parameter "filter" to find() must be an object, got ""683815ac23ad12f3412ec5d2"" (type string)
+2025-05-29 13:08:34-error:Parameter "filter" to find() must be an object, got ""683815ac23ad12f3412ec5d2"" (type string)
+2025-05-29 13:08:49-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:08:49-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:09:49-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:09:49-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:09:51-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:09:51-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:11:07-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:11:07-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 13:11:24-error:Delete error: AdminPermissionService.findByIdAndDelete is not a function
+2025-05-29 13:11:24-error:AdminPermissionService.findBylete is not a functionIdAndDe
+2025-05-29 14:15:51-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 14:15:51-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 14:17:14-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 14:17:14-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 14:18:39-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 14:18:39-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 14:19:24-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 14:19:24-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 14:20:54-error:Get one error: Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 14:20:54-error:Parameter "filter" to find() must be an object, got "683815ac23ad12f3412ec5d2" (type string)
+2025-05-29 14:21:42-error:Get one error: Parameter "filter" to find() must be an object, got "838157a23ad12f3412ec5cf" (type string)
+2025-05-29 14:21:42-error:Parameter "filter" to find() must be an object, got "838157a23ad12f3412ec5cf" (type string)
+2025-05-29 14:22:22-error:Get one error: Cast to ObjectId failed for value "838157a23ad12f3412ec5cf" (type string) at path "_id" for model "AdminPermissions"
+2025-05-29 14:22:22-error:Cast to ObjectId failed for value "838157a23ad12f3412ec5cf" (type string) at path "_id" for model "AdminPermissions"
+2025-05-29 15:40:21-error: Delete Branch error: Branch not found
+2025-05-29 15:40:32-info:New Branch created!
+2025-05-29 15:41:13-error:Cannot read properties of undefined (reading 'branch_id')
+2025-05-29 15:41:34-error:Cannot read properties of undefined (reading 'branch_id')
+2025-05-29 15:43:07-info:Branch deleted: 6835e40385c810bf93729c05!
+2025-05-29 15:43:59-error: Delete Branch error: Id is ruquired!
+2025-05-29 15:44:36-error: Delete Branch error: Branch not found
+2025-05-29 16:23:05-error:read ECONNRESET
+2025-05-29 16:23:05-error:read ECONNRESET
+2025-05-29 16:23:14-error:read ECONNRESET
+2025-05-29 16:23:14-error:read ECONNRESET
+2025-05-29 16:26:13-error:Error on Create method: PermissionService.AddPermission is not a function
+2025-05-29 16:26:13-error:PermissionService.AddPermission is not a function
+2025-05-29 16:41:51-error:Error on Update method: Cast to ObjectId failed for value "{ permissionModel: 'great', permission: 'write' }" (type Object) at path "_id" for model "Permissions"
+2025-05-29 16:41:51-error:Cast to ObjectId failed for value "{ permissionModel: 'great', permission: 'write' }" (type Object) at path "_id" for model "Permissions"
+2025-05-29 16:43:12-error:Error on Update method: Cast to ObjectId failed for value "{ permissionModel: 'great', permission: 'write' }" (type Object) at path "_id" for model "Permissions"
+2025-05-29 16:43:12-error:Cast to ObjectId failed for value "{ permissionModel: 'great', permission: 'write' }" (type Object) at path "_id" for model "Permissions"
+2025-05-29 16:43:14-error:Error on Update method: Cast to ObjectId failed for value "{ permissionModel: 'great', permission: 'write' }" (type Object) at path "_id" for model "Permissions"
+2025-05-29 16:43:14-error:Cast to ObjectId failed for value "{ permissionModel: 'great', permission: 'write' }" (type Object) at path "_id" for model "Permissions"
+2025-05-29 16:44:29-error:Error on Update method: Cast to ObjectId failed for value "{ permissionModel: 'great', permission: 'write' }" (type Object) at path "_id" for model "Permissions"
+2025-05-29 16:44:29-error:Cast to ObjectId failed for value "{ permissionModel: 'great', permission: 'write' }" (type Object) at path "_id" for model "Permissions"
+2025-05-29 17:51:18-error:Error on Update method: Cast to ObjectId failed for value "{ permissionModel: 'great', permission: 'write' }" (type Object) at path "_id" for model "Permissions"
+2025-05-29 17:51:18-error:Cast to ObjectId failed for value "{ permissionModel: 'great', permission: 'write' }" (type Object) at path "_id" for model "Permissions"
+2025-05-29 18:26:47-error:lolo and brrrr@gmail.com are already Exists!
+2025-05-29 18:27:37-info:New Branch created!
+2025-05-29 18:28:08-info:Branch updated: Nucliear Boomb
+2025-05-29 18:28:55-info:Branch updated: Nucliear Boomb
+2025-05-29 18:30:03-error: Delete Branch error: Branch not found
+2025-05-29 18:30:20-info:All Branches are Get
+2025-05-29 18:30:31-info:Branch get One SuccessFully 6835e93244e3b8b137984bf4
+2025-05-29 18:31:16-info:New stuff created: [object Object]
+2025-05-29 18:31:36-info:New stuff created: [object Object]
+2025-05-29 18:31:47-info:Stuff updated: 6837353693fd32382da546cf
+2025-05-29 18:33:33-info:Updated Transport Successfully!
+2025-05-29 18:33:58-info:Successfully find name of transport!
+2025-05-29 18:34:03-info:Successfully find name of transport!
+2025-05-29 18:34:25-info:Successfully find name of transport!
+2025-05-29 18:35:24-info:Successfully find name of transport!
+2025-05-29 18:35:28-info:Successfully find name of transport!
+2025-05-29 18:35:30-info:Successfully find name of transport!
+2025-05-29 18:35:42-info:Successfully find name of transport!
