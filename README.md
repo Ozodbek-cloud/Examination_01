@@ -53,6 +53,10 @@ Parmas id lar bilan delelte , update boladi
 
 HAMMASINI OQIGANLIGIZ MING BOR RAXMAT !!!
 
+--------------------------------------------------------------
+SIZ UCHUN HAMMA SHAROITLAR TAYYOR BOLGAN, SHU YAXSHI TEST QILIB OLSANGIZ BOLDI 👏👏👏👏👏👏👏👏👏👏
+--------------------------------------------------------------
+
 ![image](https://github.com/user-attachments/assets/c41cf2d5-90db-4b97-91cd-c0b1f0d69ef9) => LOYIHAGA SHUNCHA VAQTIM KETGANINI KORISHINGIZ MUMKIN 🤝👏
 UMID QILAMANKI , MENGA YAXSHI BALL QOYASIZ DEGAN UMIDDAMAN 👏🚀🌟🌟🎊
 
